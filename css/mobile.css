@@ -1,0 +1,24 @@
+@media (max-width: 600px)
+{
+  .products
+  {
+    height: auto;
+    display: inherit;
+  }
+  .products, .content
+  {
+    margin-top: auto;
+    height: auto;
+    text-align: justify;
+    margin-top: 200px;
+  }
+  .main_section
+  {
+    padding: 4%;
+    display: inherit;
+  }
+  .reviews, .service_info
+  {
+    display: inherit;
+  }
+}
